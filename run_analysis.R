@@ -1,4 +1,3 @@
-setwd("/Users/bhavanamunshi/Documents/DataScientistTrack/GettingAndCleaningData/Week4/")
 
 ########################################
 ##list of activities 
